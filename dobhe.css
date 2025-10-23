@@ -1,0 +1,695 @@
+﻿QWidget#indexBackWdt {
+    background-color: #131218;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+
+QWidget#indexTopWdt {
+    background-color: #1F2128;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+
+QWidget#showWdt {
+    background: linear-gradient( 135deg, #16181D 0%, #1F2229 20%, #16181D 43%, #1F2229 70%, #16181D 100%);
+    border-radius: 16px 16px 16px 16px;
+    border: 1px solid #4D4D4D;
+}
+
+QWidget#itemBackWdt {
+    background: #282B34;
+    border-radius: 10px 10px 10px 10px;
+}
+
+QWidget#dataBackWdt {
+    background: #1A1A1A;
+    box-shadow: 0px 4px 20px 0px rgba(0,0,0,0.25);
+    border-radius: 16px 16px 16px 16px;
+    border: 1px solid #666666;
+}
+
+QWidget#trainBackWdt {
+    background: #131218;
+    border-radius: 6px;
+}
+
+QWidget#scriptWdt {
+    background: #1F2128;
+
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+
+QWidget#trainWdt {
+    background: #1F2128;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+
+QWidget#trainTopBackWdt {
+    background: #1F2128;
+    border-radius: 6px;
+}
+
+QWidget#showPicWdt1 {
+    background: linear-gradient( 135deg, #16181D 0%, #1F2229 20%, #16181D 43%, #1F2229 70%, #16181D 100%);
+    border-radius: 16px;
+    border: 1px solid #4D4D4D;
+}
+
+QWidget#helpBackWdt {
+    background: #131218;
+    border-radius: 6px;
+}
+
+QWidget#helpTopWdt {
+    background: #1F2128;
+    border-radius: 6px;
+}
+
+QWidget#helpLeftWdt {
+    background: linear-gradient( 135deg, #16181D 0%, #1F2229 20%, #16181D 43%, #1F2229 70%, #16181D 100%);
+    border-radius: 16px 16px 16px 16px;
+    border: 1px solid #4D4D4D;
+}
+
+QWidget#nameBackWdt {
+    background: #1A1A1A;
+    box-shadow: 0px 4px 20px 0px rgba(0,0,0,0.25);
+    border-radius: 16px 16px 16px 16px;
+    border: 1px solid #666666;
+}
+
+QPushButton#refBtn, QPushButton#saveBtn {
+    font-family: Alibaba PuHuiTi, Alibaba PuHuiTi;
+    font-size: 14px;
+    color: #FFFFFF;
+    font-style: normal;
+    text-transform: none;
+    background: transparent;
+    border: none;
+}
+
+QPushButton#picChBtn, QPushButton#labelChBtn, QPushButton#outChBtn {
+    background: #3D77FF;
+    border-radius: 16px;
+
+    font-family: Alibaba PuHuiTi, Alibaba PuHuiTi;
+    font-weight: 400;
+    font-size: 12px;
+    color: #FFFFFF;
+
+    font-style: normal;
+    text-transform: none;
+}
+
+QPushButton#openBtn {
+    background: #3D77FF;
+    border-radius: 16px;
+
+    font-family: Alibaba PuHuiTi, Alibaba PuHuiTi;
+    font-weight: 400;
+    font-size: 12px;
+    color: #FFFFFF;
+
+    font-style: normal;
+    text-transform: none;
+}
+
+QPushButton#startBtn {
+    background: #3D77FF;
+    border-radius: 16px;
+
+    font-family: Alibaba PuHuiTi, Alibaba PuHuiTi;
+    font-weight: 400;
+    font-size: 12px;
+    color: #FFFFFF;
+    font-style: normal;
+    text-transform: none;
+}
+
+QPushButton#stopBtn {
+    background: #201E28;
+    border-radius: 16px;
+    border: 1px solid #FFFFFF;
+
+    font-family: Alibaba PuHuiTi, Alibaba PuHuiTi;
+    font-weight: 400;
+    font-size: 12px;
+    color: #FFFFFF;
+
+    font-style: normal;
+    text-transform: none;
+}
+
+    QPushButton#stopBtn:hover {
+        background-color: #3D77FF;
+        border-radius: 16px 16px 16px 16px;
+        color: #EFBA37;
+    }
+
+    QPushButton#stopBtn:pressed {
+        background-color: #3D77FF;
+        color: #FFFFFF;
+        border-radius: 16px 16px 16px 16px;
+    }
+
+QPushButton#startBtn:hover {
+    background-color: #201E28;
+    border-radius: 16px 16px 16px 16px;
+    color: #EFBA37;
+}
+
+QPushButton#startBtn:pressed {
+    background-color: #201E28;
+    color: #FFFFFF;
+    border-radius: 16px 16px 16px 16px;
+}
+
+QPushButton#dataStartBtn {
+    background: #3D77FF;
+    border-radius: 16px;
+    font-family: Alibaba PuHuiTi, Alibaba PuHuiTi;
+    font-weight: 400;
+    font-size: 12px;
+    color: #FFFFFF;
+    font-style: normal;
+    text-transform: none;
+}
+
+QPushButton#openDirBtn {
+    background: #3D77FF;
+    border-radius: 16px 16px 16px 16px;
+    font-family: Alibaba PuHuiTi, Alibaba PuHuiTi;
+    font-weight: 400;
+    font-size: 12px;
+    color: #FFFFFF;
+    font-style: normal;
+    text-transform: none;
+}
+
+    QPushButton#openDirBtn:hover {
+        background-color: #3D77FF;
+        border-radius: 16px 16px 16px 16px;
+        color: #EFBA37;
+    }
+
+    QPushButton#openDirBtn:pressed {
+        background-color: #3D77FF;
+        color: #FFFFFF;
+        border-radius: 16px 16px 16px 16px;
+    }
+
+QPushButton#datasetBtn, QPushButton#trainBtn {
+    background: #3D77FF;
+    border-radius: 16px;
+
+    font-family: Alibaba PuHuiTi, Alibaba PuHuiTi;
+    font-weight: 400;
+    font-size: 12px;
+    color: #FFFFFF;
+    font-style: normal;
+    text-transform: none;
+}
+
+    QPushButton#datasetBtn:hover, QPushButton#trainBtn:hover {
+        background-color: #201E28;
+        border-radius: 16px 16px 16px 16px;
+        color: #EFBA37;
+        border: 1px solid #FFFFFF;
+    }
+
+    QPushButton#datasetBtn:pressed, QPushButton#trainBtn:pressed {
+        background-color: #201E28;
+        color: #FFFFFF;
+        border-radius: 16px 16px 16px 16px;
+        border: 1px solid #FFFFFF;
+    }
+
+QPushButton#helpBtn, QPushButton#exitBtn {
+    background: #201E28;
+    border-radius: 16px;
+    border: 1px solid #FFFFFF;
+    font-family: Alibaba PuHuiTi, Alibaba PuHuiTi;
+    font-weight: 400;
+    font-size: 12px;
+    color: #FFFFFF;
+    font-style: normal;
+    text-transform: none;
+}
+
+    QPushButton#helpBtn:hover, QPushButton#exitBtn:hover {
+        background-color: #3D77FF;
+        border-radius: 16px 16px 16px 16px;
+        color: #EFBA37;
+    }
+
+    QPushButton#helpBtn:pressed, QPushButton#exitBtn:pressed {
+        background-color: #3D77FF;
+        color: #FFFFFF;
+        border-radius: 16px 16px 16px 16px;
+    }
+
+QPushButton#nOkBtn{
+    background: #3D77FF;
+    border-radius: 16px;
+
+    font-family: Alibaba PuHuiTi, Alibaba PuHuiTi;
+    font-weight: 400;
+    font-size: 12px;
+    color: #FFFFFF;
+
+    font-style: normal;
+    text-transform: none;
+}
+
+    QPushButton#nOkBtn:hover {
+        background-color: #363739;
+        border-radius: 16px 16px 16px 16px;
+        color: #EFBA37;
+    }
+
+    QPushButton#nOkBtn:pressed {
+        background-color: #363739;
+        color: #FFFFFF;
+        border-radius: 16px 16px 16px 16px;
+    }
+
+QPushButton#nQuitBtn {
+    background: #363739;
+    border-radius: 16px;
+
+    font-family: Alibaba PuHuiTi, Alibaba PuHuiTi;
+    font-weight: 400;
+    font-size: 12px;
+    color: #FFFFFF;
+    font-style: normal;
+    text-transform: none;
+}
+
+    QPushButton#nQuitBtn:hover {
+        background-color: #3D77FF;
+        border-radius: 16px 16px 16px 16px;
+        color: #EFBA37;
+    }
+
+    QPushButton#nQuitBtn:pressed {
+        background-color: #3D77FF;
+        color: #FFFFFF;
+        border-radius: 16px 16px 16px 16px;
+    }
+
+QLabel#helpOperaterLr {
+    border-image: url(:/dubhe/pic/opt.png);
+}
+
+QLabel#helpCodeLr {
+    border-image: url(:/dubhe/pic/code.png);
+}
+
+QLabel#qqLogoLr {
+    border-image: url(:/dubhe/pic/qq.png);
+}
+
+QLabel#logo3Lr, QLabel#logoLr, QLabel#trainLogoLr, QLabel#logo1Lr {
+    border-image: url(:/dubhe/pic/xly.png);
+}
+
+QLabel#yolo1Lr, QLabel#yoloLr, QLabel#yoloLr, QLabel#logoNameLr {
+    width: 150px;
+    height: 31px;
+    font-family: ZiYouWenYiHei, ZiYouWenYiHei;
+    font-weight: 400;
+    font-size: 24px;
+    color: #FFFFFF;
+    font-style: normal;
+    text-transform: none;
+}
+
+QLabel#helpTLr1, QLabel#helpTLr2, QLabel#helpTLr3 {
+
+    font-family: Alibaba PuHuiTi, Alibaba PuHuiTi;
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+    text-align: left;
+    font-style: normal;
+    text-transform: none;
+}
+
+QLabel#qrcodeLr, QLabel#qq1Lr {
+    font-family: Alibaba PuHuiTi, Alibaba PuHuiTi;
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+    text-align: center;
+    font-style: normal;
+    text-transform: none;
+}
+
+QLabel#help2Lr, QLabel#help1Lr {
+    background: #3D77FF;
+    border-radius: 10px 10px 10px 10px;
+}
+
+QLabel#helpKeyLr, QLabel#helpTrainLr {
+    font-family: ZiYouWenYiHei, ZiYouWenYiHei;
+    font-weight: 400;
+    font-size: 24px;
+    color: #FFFFFF;
+    font-style: normal;
+    text-transform: none;
+}
+
+QLabel#helpNameLr {
+    font-family: Alibaba PuHuiTi, Alibaba PuHuiTi;
+    font-weight: 500;
+    font-size: 24px;
+    color: #FFFFFF;
+    text-align: center;
+    font-style: normal;
+    text-transform: none;
+}
+
+QLabel#qqLr {
+
+    font-family: Alibaba PuHuiTi, Alibaba PuHuiTi;
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+    text-align: center;
+    font-style: normal;
+    text-transform: none;
+}
+
+QLabel#flagLr {
+    width: 4px;
+    height: 16px;
+    background: #3D77FF;
+    border-radius: 10px 10px 10px 10px;
+}
+
+QLabel#nLogoLr {
+    background: #3D77FF;
+    border-radius: 10px 10px 10px 10px;
+}
+
+QLabel#listLr {
+
+    font-family: Alibaba PuHuiTi, Alibaba PuHuiTi;
+    font-weight: 400;
+    font-size: 18px;
+    color: #FFFFFF;
+    font-style: normal;
+    text-transform: none;
+}
+
+QLabel#nameLr, QLabel#list2Lr {
+    font-family: Alibaba PuHuiTi, Alibaba PuHuiTi;
+    font-weight: 400;
+    font-size: 12px;
+    color: #FFFFFF;
+    font-style: normal;
+    text-transform: none;
+}
+
+QLabel#picPath2Lr {
+    width: 4px;
+    height: 16px;
+    background: #3D77FF;
+    border-radius: 10px 10px 10px 10px;
+}
+
+QLabel#curFlagLr {
+    width: 71px;
+    height: 25px;
+    font-family: Alibaba PuHuiTi, Alibaba PuHuiTi;
+    font-weight: 400;
+    font-size: 18px;
+    color: #FFFFFF;
+    text-align: left;
+    font-style: normal;
+    text-transform: none;
+}
+
+QLabel#picPathLr, QLabel#picPath1Lr {
+    width: 231px;
+    height: 25px;
+    font-family: Alibaba PuHuiTi, Alibaba PuHuiTi;
+    font-weight: 400;
+    font-size: 18px;
+    color: #FFFFFF;
+    text-align: left;
+    font-style: normal;
+    text-transform: none;
+}
+
+QLabel#data1Lr {
+    font-family: Alibaba PuHuiTi, Alibaba PuHuiTi;
+    font-weight: 400;
+    font-size: 18px;
+    color: #FFFFFF;
+    text-align: left;
+    font-style: normal;
+    text-transform: none;
+}
+
+QLabel#data2Lr, QLabel#data3Lr, QLabel#data4Lr, QLabel#data5Lr, QLabel#data6Lr, QLabel#msgLr {
+    font-family: Alibaba PuHuiTi, Alibaba PuHuiTi;
+    font-weight: 400;
+    font-size: 12px;
+    color: #FFFFFF;
+    text-align: right;
+    font-style: normal;
+    text-transform: none;
+}
+
+QLabel#scriptLr {
+    background-color: #E2A75D;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+/*    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;*/
+}
+
+QLabel#scriptLr2 {
+    background-color: #68D984;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+    /*    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;*/
+}
+
+QLabel#tranScriptLr {
+
+    font-family: Alibaba PuHuiTi, Alibaba PuHuiTi;
+    font-weight: 400;
+    font-size: 18px;
+    color: #FFFFFF;
+
+    font-style: normal;
+    text-transform: none;
+}
+
+QLabel#tranResultLr {
+
+    font-family: Alibaba PuHuiTi, Alibaba PuHuiTi;
+    font-weight: 400;
+    font-size: 12px;
+    color: #FFFFFF;
+
+    font-style: normal;
+    text-transform: none;
+}
+
+QScrollArea#showSa {
+    background-color: transparent;
+    border: none;
+}
+
+QTableView#nameLv {
+    font-family: Alibaba PuHuiTi, Alibaba PuHuiTi;
+    font-weight: 400;
+    font-size: 14px;
+    color: #FFFFFF;
+
+    font-style: normal;
+    text-transform: none;
+
+    background: #212124;
+    border-radius: 8px 8px 8px 8px;
+    border: 1px solid #666666;
+}
+
+    QTableView#nameLv:item {
+        /*background-color: #E6F3F8; 
+        alternate-background-color: #2962FF;*/
+
+        background-color: #282B34; /*交替行，第二行*/
+    }
+
+    QTableView#nameLv::item:!alternate:!selected {
+        background-color: #131218; /*交替行的另一颜色*/
+    }
+
+QTableView#labelsLv {
+    background-color: transparent;
+    /*background: linear-gradient( 135deg, #16181D 0%, #1F2229 20%, #16181D 43%, #1F2229 70%, #16181D 100%);*/
+    /*border-radius: 16px 16px 16px 16px;*/
+    border: 1px solid #4D4D4D;
+    color: #FFFFFF;
+    border-bottom-left-radius: 16px;
+    border-bottom-right-radius: 16px;
+}
+
+/*QTableView QTableWidgetItem {
+    background-color: #4D4D4D;*/ /* 设置表格项背景颜色 */
+    /*color: #FFFFFF;*/ /* 设置表格项文字颜色 */
+    /*padding: 8px;*/ /* 设置表格项的内边距 */
+    /*font-size: 12px;*/ /* 设置表格项字体大小 */
+/*}*/
+
+    /* 偶数行的背景色 */
+    /*QTableView#itemCaliTV {
+    alternate-background-color: lightgray;
+}*/
+
+
+    QTableView#labelsLv:item {
+        /*background-color: #E6F3F8; 
+        alternate-background-color: #2962FF;*/
+
+        background-color: #131218; /*交替行，第二行*/
+    }
+
+    QTableView#labelsLv::item:!alternate:!selected {
+        background-color: #131218; /*交替行的另一颜色*/
+    }
+
+QTableView QHeaderView::section {
+    background-color: #282B34;
+    /*background-color: transparent;*/
+    /*border: 1px solid #d0d0d0;*/ /* 设置表头边框 */
+    /*padding: 5px;*/ /* 设置表头的内边距 */
+    /*font-weight: bold;*/ /* 设置表头字体加粗 */
+    /*font-size: 14px;*/ /* 设置表头字体大小 */
+    /*text-align: center;*/ /* 设置表头文字居中 */
+/*    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;*/
+    font-family: Alibaba PuHuiTi, Alibaba PuHuiTi;
+
+    font-size: 14px;
+    color: #FFFFFF;
+    border: none;
+    font-style: normal;
+    text-transform: none;
+}
+
+
+
+    QTableView QHeaderView::section:hover {
+        background-color: #e0e0e0; /* 设置鼠标悬停时表头背景颜色 */
+    }
+
+    QTableView QHeaderView::section:pressed {
+        background-color: #d0d0d0; /* 设置表头被点击时的背景颜色 */
+    }
+
+
+QListWidget#picListLwt {
+    background-color: transparent;
+    border-radius: 16px 16px 16px 16px;
+    border: 1px solid #4D4D4D;
+}
+
+QLineEdit#ratioEt, QLineEdit#picPathEt, QLineEdit#lablePathEt, QLineEdit#datasetPathEt {
+    background: #1E2027;
+    border-radius: 8px 8px 8px 8px;
+    border: 1px solid #666666;
+
+    font-family: Alibaba PuHuiTi, Alibaba PuHuiTi;
+    font-weight: 400;
+    font-size: 12px;
+    color: #FFFFFF;
+    text-align: left;
+    font-style: normal;
+    text-transform: none;
+}
+
+QLineEdit#resultLe {
+    background: #1E2027;
+    border-radius: 8px;
+    border: 1px solid #666666;
+
+    font-family: Alibaba PuHuiTi, Alibaba PuHuiTi;
+    font-weight: 400;
+    font-size: 12px;
+    color: #FFFFFF;
+
+    font-style: normal;
+    text-transform: none;
+}
+
+QLineEdit#nameEt {
+    background: #212124;
+    border-radius: 8px 8px 8px 8px;
+    border: 1px solid #666666;
+
+    font-family: Alibaba PuHuiTi, Alibaba PuHuiTi;
+    font-weight: 400;
+    font-size: 12px;
+    color: #FFFFFF;
+    font-style: normal;
+    text-transform: none;
+}
+
+QProgressBar#progressBar {
+    background: #2C2B2B;
+    border-radius: 6px;
+    border: 1px solid #666666;
+}
+
+    QProgressBar#progressBar::chunk {
+        background: qlineargradient(spread:pad, x1:1, y1:0, x2:0, y2:0, stop:0 #08FD34, stop:1 #007916);
+        border-radius: 6px;
+    }
+
+/*    QProgressBar#progressBar::check::enabled {
+        border-radius: 16px;
+        background: qlineargradient(spread:pad, x1:1, y1:0, x2:0, y2:0, stop:0 #007916, stop:1 #08FD34);
+    }*/
+
+QTextEdit#trainTe {
+    background-color: transparent;
+    font-family: Alibaba PuHuiTi, Alibaba PuHuiTi;
+    font-weight: 400;
+    font-size: 14px;
+    color: #FFFFFF;
+    line-height: 36px;
+    font-style: normal;
+    text-transform: none;
+    border: none;
+}
+
+QTextEdit#showCmdTe {
+    background-color: transparent;
+    font-family: Alibaba PuHuiTi, Alibaba PuHuiTi;
+    font-weight: 400;
+    font-size: 14px;
+    color: #FFFFFF;
+    line-height: 36px;
+    font-style: normal;
+    text-transform: none;
+    border: none;
+}
+
+QComboBox#scriptCbx {
+    background: #1E2027;
+    border-radius: 8px;
+    border: 1px solid #666666;
+    color: #FFFFFF;
+}

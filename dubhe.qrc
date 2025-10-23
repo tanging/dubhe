@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/dubhe">
+        <file>dobhe.css</file>
+        <file>pic/c1.png</file>
+        <file>pic/m1.png</file>
+        <file>pic/m2.png</file>
+        <file>pic/xly.png</file>
+        <file>pic/dataset.png</file>
+        <file>pic/exit.png</file>
+        <file>pic/help.png</file>
+        <file>pic/train.png</file>
+        <file>pic/no.png</file>
+        <file>pic/ok.png</file>
+        <file>pic/c2.png</file>
+        <file>pic/start.png</file>
+        <file>pic/stop.png</file>
+        <file>pic/ref.png</file>
+        <file>pic/save.png</file>
+        <file>pic/code.png</file>
+        <file>pic/qq.png</file>
+        <file>pic/opt.png</file>
+    </qresource>
+</RCC>

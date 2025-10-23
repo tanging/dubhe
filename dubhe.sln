@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dubhe", "dubhe.vcxproj", "{E6A7D98E-FD4B-47D6-A9F6-FF83257FF5D1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "setup", "..\setup\setup.vcxproj", "{E245B643-55F2-43AC-82AE-FCFA91179B98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6A7D98E-FD4B-47D6-A9F6-FF83257FF5D1}.Debug|x64.ActiveCfg = Debug|x64
+		{E6A7D98E-FD4B-47D6-A9F6-FF83257FF5D1}.Debug|x64.Build.0 = Debug|x64
+		{E6A7D98E-FD4B-47D6-A9F6-FF83257FF5D1}.Release|x64.ActiveCfg = Release|x64
+		{E6A7D98E-FD4B-47D6-A9F6-FF83257FF5D1}.Release|x64.Build.0 = Release|x64
+		{E245B643-55F2-43AC-82AE-FCFA91179B98}.Debug|x64.ActiveCfg = Debug|x64
+		{E245B643-55F2-43AC-82AE-FCFA91179B98}.Debug|x64.Build.0 = Debug|x64
+		{E245B643-55F2-43AC-82AE-FCFA91179B98}.Release|x64.ActiveCfg = Release|x64
+		{E245B643-55F2-43AC-82AE-FCFA91179B98}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37C58FB5-2C81-4ED7-B78C-BD5C2090C698}
+	EndGlobalSection
+EndGlobal
